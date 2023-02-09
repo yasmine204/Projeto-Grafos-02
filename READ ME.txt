@@ -1,9 +1,0 @@
-Os seguintes arquivos foram feitos apartir da construção dos grafos no site Graph Online:
-
-teste-01.txt
-
-teste-02.txt 
-
-teste-03.txt
-
-Por favor, utilize os para testar o programa!
